@@ -1,8 +1,8 @@
 Features:
-Email Bomber
-SMS Bomber (Coming Soon)
-Discord Bomber
-WhatsApp Bomber
+Email Bomber,
+SMS Bomber (Coming Soon),
+Discord Bomber,
+WhatsApp Bomber,
 
 Preview:
 ![Screenshot 2023-049 143320](https://user-images.githubusercontent.com/102971549/235298240-674d915f-768a-4d36-853f-67764a05cd07.png)
